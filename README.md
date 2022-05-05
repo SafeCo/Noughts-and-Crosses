@@ -12,4 +12,4 @@ If you match three of the shapes horizontally, vertically or diagonally within t
 ## What I've learnt
 This project helped me give a better understanding of event listeners within Javascript.
 
-I also learnt better DOM manipulation and how to use arrays in collect information within the DOM and change the said array to reflect updated information.
+I also learnt better DOM manipulation and how to use arrays to collect information within the DOM and change the said array to reflect updated information.
