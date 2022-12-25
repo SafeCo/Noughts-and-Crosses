@@ -13,11 +13,11 @@ for (let i = 0; i <parent.children.length; i++) {
 
 	container.push(parent.children[i]);
 	container[i].addEventListener('click', function test(){
-		foo(i)
+		setter(i)
 	})
 }
 
-function foo(i){
+function setter(i){
 		if (gameOver === true || container[i].innerHTML === 'X' || container[i].innerHTML === 'O'){
 			return
 		}else if (counter % 2 == 0) {
